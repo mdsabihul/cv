@@ -1,0 +1,82 @@
+hr {
+    cursor: pointer;
+    border: none;
+    border-top: dotted 10px;
+    width: 8%;
+    border-color: rgb(255, 0, 0) ;
+    }
+
+
+
+
+textarea
+     { 
+    background: transparent;
+    border-style: solid 3px;
+    margin-right: 250px;
+    color: chartreuse;
+} 
+        
+
+.star  
+    {  
+    color: rgb(255, 0, 0);
+    }
+
+
+body{
+    background-image: url(bodyb.jpg);
+    color:  silver;
+    font-size: 20px;
+    margin: 1px;
+    }
+
+
+a {
+    color:rgb(255, 0, 0);
+    }
+
+
+.formbody
+{
+    border: solid 3px;
+    border-color: silver;
+    padding: 20px;
+    margin: 0;
+    width: 50%;
+    height: 550px;
+
+}
+
+label{
+    text-align: left;
+    margin-right: 50px;    
+}
+
+
+input[type="submit"]
+{
+    text-align: center;
+    cursor: -webkit-grabbing;
+    box-sizing: border-box;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: solid 3px;
+    width: 100px;
+    margin-left: 23%;
+    float: left;
+}
+
+
+input{
+    background: transparent;
+    border-style: solid 2px;
+    margin-right: 250px;
+    float: right;
+    color: chartreuse;
+}
+
+form :hover {
+    background-attachment: fixed;
+ background-image: url(backg.jpg);
+}
